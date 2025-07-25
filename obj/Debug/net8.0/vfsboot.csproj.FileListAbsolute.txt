@@ -1,0 +1,14 @@
+/home/sgonga/vfsboot_atack/vfsboot/bin/Debug/net8.0/vfsboot
+/home/sgonga/vfsboot_atack/vfsboot/bin/Debug/net8.0/vfsboot.deps.json
+/home/sgonga/vfsboot_atack/vfsboot/bin/Debug/net8.0/vfsboot.runtimeconfig.json
+/home/sgonga/vfsboot_atack/vfsboot/bin/Debug/net8.0/vfsboot.dll
+/home/sgonga/vfsboot_atack/vfsboot/bin/Debug/net8.0/vfsboot.pdb
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/vfsboot.GeneratedMSBuildEditorConfig.editorconfig
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/vfsboot.AssemblyInfoInputs.cache
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/vfsboot.AssemblyInfo.cs
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/vfsboot.csproj.CoreCompileInputs.cache
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/vfsboot.dll
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/refint/vfsboot.dll
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/vfsboot.pdb
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/vfsboot.genruntimeconfig.cache
+/home/sgonga/vfsboot_atack/vfsboot/obj/Debug/net8.0/ref/vfsboot.dll
